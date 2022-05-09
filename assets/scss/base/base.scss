@@ -12,6 +12,7 @@
 	--global-radius: 6px;
 	--wrapper-w1280-mb: 120px;
 	--wrapper-w760-mb: 60px;
+	--colors-like-active: #FF3300;
 }
 
 body[data-theme='dark'] {
@@ -19,6 +20,7 @@ body[data-theme='dark'] {
 	--colors-bg: black;
 	--colors-button-bg: green;
 	--colors-button-text: white;
+	
 }
 
 body[data-theme='light'] {
