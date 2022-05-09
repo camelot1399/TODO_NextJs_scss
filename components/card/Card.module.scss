@@ -1,0 +1,15 @@
+.card {
+	display: flex;
+	flex-direction: column;
+	&__name {
+		color: green;
+	}
+	&__footer {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		& svg {
+			cursor: pointer;
+		}
+	}
+}

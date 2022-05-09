@@ -1,0 +1,6 @@
+.wrapper {
+	margin-bottom: var(--wrapper-w1280-mb);
+	@media (max-width: 760px) {
+		margin-bottom: var(--wrapper-w760-mb);
+	}
+}
